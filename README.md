@@ -1,6 +1,6 @@
 [English](README_EN_US.md) | [繁體中文](README_ZH_TW.md)
 
-** 你可以使用下面这条命令,来召唤烟花
+**你可以使用下面这条命令,来召唤烟花**
 - /afw summon ［炸开效果］［颜色］
 > [!IMPORTANT]
 ># AuroraFireworks教程 
