@@ -1,0 +1,3 @@
+- 修改 Created-By、Implementation-Vendor 等属性
+- 保留 paperweight-mappings-namespace
+- 已重新编译并验证
