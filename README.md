@@ -12,6 +12,7 @@
 - SpellAttack 在玩家前方 生成一个像子弹一样的爆炸效果，往前飞行持续10秒
 
 -［颜色］
-- 有红、橙、黄、绿、青、蓝、紫，黑白灰，
-- 对应的英文名 开头小写
+- 有红，橙，黄，绿，青，蓝，紫，黑，白，灰
+- red,orange,yellow,green,cyan,blue,purple, black,white,gray.
+- 对应的英文名
 
