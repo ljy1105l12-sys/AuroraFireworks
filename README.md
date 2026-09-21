@@ -1,7 +1,7 @@
 你可以使用,来召唤烟花
 - /afw summon ［炸开效果］［颜色］
  
-# 🧨AuroraFireworks教程 
+> 🧨AuroraFireworks教程 
 
 
 # 💥炸开效果 
