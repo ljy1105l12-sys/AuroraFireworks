@@ -11,8 +11,19 @@
 - circle 在玩家的脚下生成一个像法阵一样的爆炸效果，持续10秒
 - SpellAttack 在玩家前方 生成一个像子弹一样的爆炸效果，往前飞行持续10秒
 
+
+
 -［颜色］
 - 有红，橙，黄，绿，青，蓝，紫，黑，白，灰
-- red,orange,yellow,green,cyan,blue,purple, black,white,gray.
+- red(红)
+- orange(橙),
+- yellow(黄),
+- green(绿),
+- cyan(青),
+- blue(蓝) ,
+- purple(紫),
+- black(黑),
+- white(白),
+- gray(灰),
 - 对应的英文名
 
