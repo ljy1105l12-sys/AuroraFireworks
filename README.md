@@ -2,7 +2,7 @@
 
 **你可以使用下面这条命令,来召唤烟花**
 - /afw summon ［炸开效果］［颜色］
-- "插件支持Paper"
+-' 插件支持Paper
 > [!IMPORTANT]
 ># AuroraFireworks教程 
 
