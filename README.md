@@ -33,3 +33,12 @@
 
 本项目代码遵循 **[GPL-3.0 license](LICENSE)** 开源协议。
 
+<div align="center">
+  <details>
+    <summary><kbd>📷 点击查看图片</kbd></summary>
+    <br>
+    <div align="center">
+      <img src="./AuroraFireworks/小番茄混淆_PhdC.jpg" alt="示例图片" width="600">
+    </div>
+  </details>
+</div>
