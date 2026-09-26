@@ -38,7 +38,7 @@
     <summary><kbd>📷 点击查看图片</kbd></summary>
     <br>
     <div align="center">
-      <img src="./AuroraFireworks/小番茄混淆_PhdC.jpg" alt="示例图片" width="600">
+      <img src="./AuroraFireworks/小番茄混淆_PhdC.jpg/" alt="示例图片" width="600">
     </div>
   </details>
 </div>
